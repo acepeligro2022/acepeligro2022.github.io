@@ -483,14 +483,14 @@
     margin: 2.5rem 0;
     position: absolute;
     top: 680px;
-    right: 85px;
+    left: 85px;
     width: 55%;
   }
   #zip__code {
     position: absolute;
     top: 610px;
-    right: 85px;
-    padding: 10px 5px 10px 10px;
+    left: 85px;
+    padding: 10px 5px 10px 5px;
     font-size: 1.2rem;
     width: 55%;
   }
